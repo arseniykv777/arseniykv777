@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&duration=1250&pause=1000&width=435&lines=%D0%92%D1%81%D0%B5%D0%BC+%D0%BE%D0%B1%D1%89%D0%B8%D0%B9%2C+%D1%8F+%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D0%B9+%D0%B8+%D0%BC%D0%BD%D0%B5+14+%D0%BB%D0%B5%D1%82.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&duration=1250&pause=1000&width=435&lines=%D0%92%D1%81%D0%B5%D0%BC+%D0%BE%D0%B1%D1%89%D0%B8%D0%B9%2C+%D1%8F+%D0%90%D1%80%D1%81%D0%B5%D0%BD%D0%B8%D0%B9+%D0%B8+%D0%BC%D0%BD%D0%B5+15+%D0%BB%D0%B5%D1%82.)](https://git.io/typing-svg)
 
 ### Учусь веб-разработке (Пока что на фуллстэк)
 - 🖥️ В планах стать достойным разработчиком и мужчиной.
